@@ -6,5 +6,6 @@ public class Main {
     BigDecimal y=new BigDecimal("12.5");
     m.multiply(x, y);
 */
+
     }
 }
